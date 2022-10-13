@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Heading() {
+export function Heading() {
     return (
         <h1>Welcome to our Site.</h1>
     )
