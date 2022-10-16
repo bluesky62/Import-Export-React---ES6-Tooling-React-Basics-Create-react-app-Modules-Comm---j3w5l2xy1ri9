@@ -1,3 +1,4 @@
+global.TimerSDK = require('path-to-script');
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
